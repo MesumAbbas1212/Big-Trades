@@ -10,7 +10,7 @@ Designed for scalping on 1m–15m timeframes across BTCUSDT, SOLUSDT, XRPUSDT, a
 
 ## Screenshots
 
-| SOLUSDT — Active Trading | BTCUSDT — Price Levels | SOLUSDT — Market Activity |
+| SOLUSDT — Active Trading | BTCUSDT — Price Levels | XRPUSDT — Market Activity |
 |---|---|---|
 | ![SOLUSDT](img/screenshot1.jpeg) | ![BTCUSDT](img/screenshot2.jpeg) | ![SOLUSDT](img/screenshot3.jpeg) |
 
