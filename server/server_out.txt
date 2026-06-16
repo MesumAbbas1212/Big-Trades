@@ -1,0 +1,102 @@
+HTTP API on http://localhost:3002
+[backfill] Fetching klines for BTCUSDT...
+[backfill] Fetching klines for SOLUSDT...
+[backfill] Fetching klines for XRPUSDT...
+[backfill] Fetching klines for BNBUSDT...
+WS: ws://localhost:3001  HTTP: http://localhost:3002
+[backfill] BTCUSDT: 1500 candles
+[backfill] BTCUSDT: seeded 1500 candles, baseline computed
+[backfill] BNBUSDT: 1500 candles
+[backfill] BNBUSDT: seeded 1500 candles, baseline computed
+[backfill] XRPUSDT: 1500 candles
+[backfill] XRPUSDT: seeded 1500 candles, baseline computed
+[backfill] SOLUSDT: 1500 candles
+[backfill] SOLUSDT: seeded 1500 candles, baseline computed
+[enrich] SOLUSDT: 1 pts, 4232 levels, 0 anomalies
+[enrich] BTCUSDT: 1 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] BNBUSDT: 2 pts, 1625 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 102 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 100 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 100 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 100 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 99 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 99 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 99 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] BTCUSDT: 99 pts, 18041 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 3 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 2 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 1 pts, 68 levels, 0 anomalies
+[enrich] XRPUSDT: 4 pts, 68 levels, 0 anomalies
